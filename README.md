@@ -77,8 +77,9 @@ xor (y5,a,b);
 xnor (y6,a,b);
 nor (y7,a,b);
 endmodule
+
 ```
-##RTL realization Output:##
+## RTL realization Output
 ![Screenshot 2024-03-14 210028](https://github.com/Suji-90/study-of-basic-gates/assets/150884148/c0f9be90-028f-4cf2-ab7a-3d8dc073ca23)
 
 ## Truth table:##
